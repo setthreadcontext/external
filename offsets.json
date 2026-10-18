@@ -17,6 +17,7 @@
   "MaxHealth": "0x1A4",
   "ModelInstance": "0x298",
   "Name": "0x70",
+  "NameOffset": "0x8",
   "PartSize": "0x1C4",
   "PlaceId": "0x188",
   "Position": "0xD4",
