@@ -10,7 +10,7 @@
   "ClassDescriptor": "0x18",
   "ClassDescriptorToClassName": "0x8",
   "FakeDataModelPointer": "0x8DC8000",
-  "FakeDataModelToDataModel": "0x1F8",
+  "FakeDataModelToDataModel": "0x1f8",
   "Health": "0x18C",
   "JumpPower": "0x1A0",
   "LocalPlayer": "0x120",
@@ -25,7 +25,7 @@
   "Team": "0x2D8",
   "Transparency": "0x120",
   "Value": "0xA8",
-  "VisualEnginePointer": "0x884C2E0",
+  "VisualEnginePointer": "0x884c2e0",
   "WalkSpeed": "0x1CC",
   "WalkSpeedCheck": "0x3A4",
   "viewmatrix": "0x1B0"
